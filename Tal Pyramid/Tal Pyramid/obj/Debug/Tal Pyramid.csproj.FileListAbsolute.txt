@@ -1,0 +1,7 @@
+C:\Users\elev\Desktop\Prog-Utmaningar\Tal Pyramid\Tal Pyramid\bin\Debug\Tal Pyramid.exe.config
+C:\Users\elev\Desktop\Prog-Utmaningar\Tal Pyramid\Tal Pyramid\bin\Debug\Tal Pyramid.exe
+C:\Users\elev\Desktop\Prog-Utmaningar\Tal Pyramid\Tal Pyramid\bin\Debug\Tal Pyramid.pdb
+C:\Users\elev\Desktop\Prog-Utmaningar\Tal Pyramid\Tal Pyramid\obj\Debug\Tal Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Prog-Utmaningar\Tal Pyramid\Tal Pyramid\obj\Debug\Tal Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Prog-Utmaningar\Tal Pyramid\Tal Pyramid\obj\Debug\Tal Pyramid.exe
+C:\Users\elev\Desktop\Prog-Utmaningar\Tal Pyramid\Tal Pyramid\obj\Debug\Tal Pyramid.pdb

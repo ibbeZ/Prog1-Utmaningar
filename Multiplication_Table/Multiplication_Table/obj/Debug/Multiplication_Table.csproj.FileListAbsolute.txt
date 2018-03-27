@@ -1,0 +1,7 @@
+C:\Users\elev\Desktop\Prog-Utmaningar\Multiplication_Table\Multiplication_Table\bin\Debug\Multiplication_Table.exe.config
+C:\Users\elev\Desktop\Prog-Utmaningar\Multiplication_Table\Multiplication_Table\bin\Debug\Multiplication_Table.exe
+C:\Users\elev\Desktop\Prog-Utmaningar\Multiplication_Table\Multiplication_Table\bin\Debug\Multiplication_Table.pdb
+C:\Users\elev\Desktop\Prog-Utmaningar\Multiplication_Table\Multiplication_Table\obj\Debug\Multiplication_Table.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Prog-Utmaningar\Multiplication_Table\Multiplication_Table\obj\Debug\Multiplication_Table.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Prog-Utmaningar\Multiplication_Table\Multiplication_Table\obj\Debug\Multiplication_Table.exe
+C:\Users\elev\Desktop\Prog-Utmaningar\Multiplication_Table\Multiplication_Table\obj\Debug\Multiplication_Table.pdb

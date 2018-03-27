@@ -1,0 +1,7 @@
+C:\Users\elev\Desktop\Prog-Utmaningar\inkomst per timmar\inkomst per timmar\obj\Debug\inkomst per timmar.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Prog-Utmaningar\inkomst per timmar\inkomst per timmar\obj\Debug\inkomst per timmar.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Prog-Utmaningar\inkomst per timmar\inkomst per timmar\bin\Debug\inkomst per timmar.exe.config
+C:\Users\elev\Desktop\Prog-Utmaningar\inkomst per timmar\inkomst per timmar\bin\Debug\inkomst per timmar.exe
+C:\Users\elev\Desktop\Prog-Utmaningar\inkomst per timmar\inkomst per timmar\bin\Debug\inkomst per timmar.pdb
+C:\Users\elev\Desktop\Prog-Utmaningar\inkomst per timmar\inkomst per timmar\obj\Debug\inkomst per timmar.exe
+C:\Users\elev\Desktop\Prog-Utmaningar\inkomst per timmar\inkomst per timmar\obj\Debug\inkomst per timmar.pdb
